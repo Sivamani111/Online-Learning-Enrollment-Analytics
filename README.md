@@ -61,7 +61,8 @@ Bala Siva Manikanta
 ## Dashboard Screenshots
 
 ### 1. Overview
-<img src="screenshots/01_Overview.png" width="100%">
+<img src="<img width="1311" height="773" alt="Screenshot 2026-11-12 202117" src="https://github.com/user-attachments/assets/3bae6709-862c-4120-abfb-4a679b02f4d6" />
+" width="100%">
 
 ### 2. Courses & Channels
 <img src="screenshots/02_Courses_and_Channels.png" width="100%">
