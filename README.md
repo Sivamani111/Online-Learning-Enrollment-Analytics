@@ -65,8 +65,10 @@ Bala Siva Manikanta
 " width="100%">
 
 ### 2. Courses & Channels
-<img src="screenshots/02_Courses_and_Channels.png" width="100%">
+<img src="<img width="1298" height="767" alt="Screenshot 2026-11-12 202142" src="https://github.com/user-attachments/assets/9329b23d-334a-4c6e-9550-819c30aa884d" />
+" width="100%">
 
 ### 3. Data Quality
-<img src="screenshots/03_Data_Quality.png" width="100%">
+<img src="<img width="1305" height="561" alt="Screenshot 2026-11-12 202156" src="https://github.com/user-attachments/assets/4869870d-bf24-46bc-86a1-13d367ea4555" />
+" width="100%">
 
