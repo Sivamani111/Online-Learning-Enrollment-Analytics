@@ -57,3 +57,15 @@ Created an interactive Databricks AI/BI Dashboard with three pages:
 
 ## Author
 Bala Siva Manikanta
+
+## Dashboard Screenshots
+
+### 1. Overview
+<img src="screenshots/01_Overview.png" width="100%">
+
+### 2. Courses & Channels
+<img src="screenshots/02_Courses_and_Channels.png" width="100%">
+
+### 3. Data Quality
+<img src="screenshots/03_Data_Quality.png" width="100%">
+
